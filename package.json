@@ -1,0 +1,24 @@
+{
+  "name": "digitalproducts-platform-api",
+  "version": "0.1.0",
+  "description": "RESTful API for managing a Platform for selling Digital Products",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon run dev"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "API",
+    "DigitalProducts"
+  ],
+  "author": "Thalison Amaral",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
